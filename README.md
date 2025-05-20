@@ -17,7 +17,7 @@ The project compares accuracy and execution time of all methods, and visualizes 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Farbodpya/ellipse-perimeter.git
-cd ellipse-perimeter
+git clone https://github.com/Farbodpya/ellipse-perimeter-approximation.git
+cd ellipse-perimeter-approximation
 pip install -r requirements.txt
 python main.py
